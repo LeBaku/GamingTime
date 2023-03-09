@@ -1,0 +1,7 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://bh-bsc.anonymous.front.exp.direct",
+  "packagerNgrokUrl": "https://bh-bsc.anonymous.front.exp.direct",
+  "ngrokPid": 1425
+}
