@@ -1,16 +1,16 @@
 # GamingTime
 
 ## Lancement de expo
-cd dev
+cd dev <br />
 expo start (expo start --tunnel pour WSL)
 
 ## Lancement serveur
-cd login_server
+cd login_server <br />
 npx nodemon server.js
 
 ## Problème IP en WSL
-./ngrok http 3000
+./ngrok http 3000 <br />
 
 ## Modifier la connexion
-code dev
+code dev <br />
 Global.js -> modifier l'ip par localhost ou l'ip ngrok
